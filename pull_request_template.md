@@ -13,7 +13,7 @@ The purpose of this pull-request. _What_ does this pull-request do? _Why_ does i
 
 ## [Ruby code](https://styleguide.animikii.com/ruby)
 
-- [ ] [Use Rubocop](https://github.com/animikii/rubocop-akii) and clear all warnings.
+- [ ] Use [AKII's Rubocop config](https://github.com/animikii/rubocop-akii) and clear all warnings.
 - [ ] Use [YARD comments](https://yardoc.org) for all methods/classes
 
 ## [Rails](https://styleguide.animikii.com/ruby/rails)
