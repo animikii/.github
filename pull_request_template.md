@@ -1,7 +1,7 @@
 # {Jira Ticket#}: Pull-Request Title
 
 * Please create one pull-request per Jira ticket.
-* Start with the Jira ticket number, e.g., `SN-42`. Repeat the ticket title in the pull request title to provide context to the reviewer.
+* Start the pull-request title with the Jira ticket number followed by the ticket title. This will provide valuable context to the reviewer. Example: `SN-42: As a developer, I need to create and run a script to update video embed codes on courses`.
 * If this pull-request is a work in progress (ready for feedback, but not ready to be merged), prepend `WIP: ` to the title and mark it as a draft. Don't forget to update the title when it's ready to be merged.
 
 The purpose of this pull-request. _What_ does this pull-request do? _Why_ does it do it?
